@@ -1,0 +1,12 @@
+*{
+  list-style: none;
+  margin: 0 auto;
+  text-decoration: none;
+}
+
+
+.container{
+  max-width: 1400px;
+  border: 1px solid;
+ 
+}
